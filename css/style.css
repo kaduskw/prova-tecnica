@@ -1,0 +1,102 @@
+.Title {
+	color: white;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	font-style: oblique;
+	width: auto;
+	height: 90px;
+	padding-left: 20px;
+	padding-top: 32px;
+	margin-bottom: 1px;
+	background: linear-gradient(to right, #000066 30%, transparent), url(../images/admin-small.png);
+	background-position: right;
+	background-repeat: no-repeat;
+}
+
+a {
+	text-decoration: none;
+}
+
+#menuLateral {
+	height: 100%;
+	width: 250px;
+	position: absolute;
+	background-image: linear-gradient(to top, #66CCFF 0%, #000066 70% );
+
+}
+
+nav a {
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+	display: block;
+	padding: 10px 12px 10px;
+	background-color: #696363;
+	margin-top: 5px;
+}
+
+nav a:hover {
+	color: #9c9696;
+	background-color: white;
+}
+
+nav h4 {
+	color: white;
+	font-family: Arial, sans-serif;
+	font-size: 10px;
+	display: block;
+	padding: 10px 12px 10px;
+	margin-top: 5px;
+	
+}
+
+.content {
+	
+		
+	margin-top: 10px;
+	margin-left: 15%;
+	width: 75%;
+	
+	
+}
+
+Main h4 {
+
+	font-family: Arial, sans-serif;
+	color: #000066;
+	font-size: 15px;
+	height: auto;
+	width: auto;
+	padding-top: 25px;
+	border-bottom-style: solid;
+	border-width: 2px;
+	border-color: #000066;
+	
+}
+
+#workLoc {
+
+	margin-left: 5%;
+	margin-top: 7%;
+	border: 2px inset rgba(28,110,164,0.34);
+	width: 200px;
+	height: 30px;
+
+}
+
+#workLocState {
+
+	border: 2px inset rgba(28,110,164,0.34);
+	width: 200px;
+	height: 24px;
+}
+
+.whiteBoardInside {
+
+	width: auto;
+	height: 800px;
+	background: white;
+	-webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0); 
+	box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+
+}
